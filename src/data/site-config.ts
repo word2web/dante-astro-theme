@@ -66,17 +66,17 @@ const siteConfig: SiteConfig = {
     socialLinks: [
         {
             text: 'LinkedIn',
-            href: 'https://dribbble.com/'
+            href: 'https://www.linkedin.com/in/gktwaddle/'
         },
         {
             text: 'Github',
-            href: 'https://instagram.com/'
+            href: 'https://github.com/word2web'
         },
        
     ],
     hero: {
         title: 'Hello👋',
-        text: "Thanks for stopping by. I'm Graham Twaddle and since 2017 I've been a contractor specialising in knowledge management, communications and business analysis. Check out my blog for some of the things I'm thinking about, and my projects for some wee projects I've worked on in my spare time. <p>Enjoy. 😊</p>",
+        text: "Thanks for stopping by. I'm Graham Twaddle and since 2017 I've been a contractor specialising in knowledge management, communications and business analysis. This site is a home for my <a href='/blog/'>blog</a> and for some wee personal <a href='/projects/'>projects</a> I've been working on. <p>Enjoy. 😊</p>",
     },
  
     postsPerPage: 5,
